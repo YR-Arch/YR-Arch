@@ -30,12 +30,7 @@
 
 ---
 
-### 📊 动态
 
-![YR-Arch's GitHub stats](https://github-readme-stats.vercel.app/api?username=YR-Arch&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YR-Arch&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ### 📷 扫码访问
 
