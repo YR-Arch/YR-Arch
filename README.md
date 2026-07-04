@@ -32,15 +32,13 @@
 
 
 
-### 📷 扫码访问
+### 📬 联系
+
+- **微信** — 扫码加好友交流
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/YR-Arch/YR-Arch/main/github_qr.svg" width="120" alt="GitHub QR Code"/>
+  <img src="https://raw.githubusercontent.com/YR-Arch/YR-Arch/main/wechat_qr.jpg" width="160" alt="微信二维码"/>
 </p>
-
----
-
-### 📬 联系
 
 - **GitHub Issues** — 对项目有建议或发现 Bug？[开 Issue](https://github.com/YR-Arch/YR-Arch/issues)
 
